@@ -157,9 +157,9 @@ The key's randomart image is:
 
 推荐两本Github入门
 
-[GitHub入门与实践](/PDF/GitHub入门与实践.pdf)
+[GitHub入门与实践](https://github.com/itgoyo/500Days-Of-Github/PDF/GitHub入门与实践.pdf)
 
-[github-beginners](/PDF/github-beginners 1.0.pdf)
+[github-beginners](https://github.com/itgoyo/500Days-Of-Github/PDF/github-beginners 1.0.pdf)
 
 自我感觉刚入门Github的时候没必要逼着自已一定要使用命令行敲完代码，然后创建仓库，提交信息，上传代码。
 
@@ -171,7 +171,7 @@ The key's randomart image is:
 
 有童鞋反馈说Github For Desktop安装比较慢的问题，可以使用[Lantern](https://github.com/getlantern/forum)翻墙,如果你觉得速度不错，想办理会员版的话可以使用我的推荐码**2CR4W2**进行购买专业版，这样子我们都彼此会多获得三个月的会员时间
 
-#### 提交代码到仓库
+#### 提交代码到Github仓库
 
 - 先在Github官网上创建自己的仓库
 
