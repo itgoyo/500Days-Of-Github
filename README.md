@@ -16,9 +16,9 @@
 目录
 ---
 
-*   [认识Git](http://growth.phodal.com/#growth-全栈增长工程师指南)
-    *   [Git](http://growth.phodal.com/#全栈工程师是未来)
-        *   [Git的优点](http://growth.phodal.com/#技术的革新史)
-    *   [Github](http://growth.phodal.com/#全栈工程师是未来)
-        *   [Github安装配置](http://growth.phodal.com/#软件开发的核心难题沟通)
-        *   [提交代码到Github仓库](http://growth.phodal.com/#大公司的专家与小公司的全栈)
+*   [认识Git](https://github.com/itgoyo/500Days-Of-Github/issues/1)
+    *   [Git](https://github.com/itgoyo/500Days-Of-Github/issues/1)
+        *   [Git的优点](https://github.com/itgoyo/500Days-Of-Github/issues/1)
+    *   [Github](https://github.com/itgoyo/500Days-Of-Github/issues/1)
+        *   [Github安装配置](https://github.com/itgoyo/500Days-Of-Github/issues/1)
+        *   [提交代码到Github仓库](https://github.com/itgoyo/500Days-Of-Github/issues/1)
