@@ -16,15 +16,18 @@
 目录
 ---
 
+
 *   [认识Git](https://github.com/itgoyo/500Days-Of-Github/issues/1)
     *   [Git](https://github.com/itgoyo/500Days-Of-Github/issues/1)
         *   [Git的优点](https://github.com/itgoyo/500Days-Of-Github/issues/1)
     *   [Github](https://github.com/itgoyo/500Days-Of-Github/issues/1)
         *   [Github安装配置](https://github.com/itgoyo/500Days-Of-Github/issues/1)
-        *   [提交代码到Github仓库](https://github.com/itgoyo/500Days-Of-Github/issues/1)    
-*   [Hexo搭建个人博客](https://github.com/itgoyo/500Days-Of-Github/issues2)
+        *   [提交代码到Github仓库](https://github.com/itgoyo/500Days-Of-Github/issues/1)
+
+*   [He搭建个人博客](https://github.com/itgoyo/500Days-Of-Github/issues2)
     *   [Hexo搭建](https://github.com/itgoyo/500Days-Of-Github/issues2)
     *   [Hexo加入评论功能](https://github.com/itgoyo/500Days-Of-Github/issues2)
     *   [Hexo加入网易云音乐](https://github.com/itgoyo/500Days-Of-Github/issues2)
-       
-       
+
+
+​
