@@ -1,4 +1,4 @@
-<center> # 500Days-Of-Github </center>
+500Days-Of-Github
 就像电影(500)Days of Summer一样，记录着每一天
 
 这只是个人的一些学习经验总结和感悟，可能排版会有些乱，但不影响它成为一份很好的学习材料
